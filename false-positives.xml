@@ -7,4 +7,11 @@
       <sha1>0f6f1fa2b59ae770ca14f975726bed8d6620ed9b</sha1>
       <cpe>cpe:/a:gradle:gradle</cpe>
    </suppress>
+   <suppress>
+      <notes><![CDATA[
+      file name: gradle-wrapper.jar
+      ]]></notes>
+      <sha1>d5f2cff8bfce6bd848ee3dceb06393502f78ca7c</sha1>
+      <cpe>cpe:/a:gradle:gradle</cpe>
+   </suppress>
 </suppressions>
